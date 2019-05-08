@@ -1,0 +1,3 @@
+"""ノーマルモードに<c-j>で移動可能にする"""
+imap <c-j> <esc>
+noremap! <c-j> <esc>
